@@ -1,0 +1,5 @@
+{
+  "name": "PepoMart Ad Creator",
+  "description": "PepoMart’s Autonomous Marketing AI that generates professional, trending sneaker ads based on an uploaded catalog and leverages various Gemini API functionalities.",
+  "requestFramePermissions": []
+}
